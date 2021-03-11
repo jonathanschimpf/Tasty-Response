@@ -12,13 +12,13 @@ function TastyResponseComp() {
         <>
 
             <Jumbotron id="jumboBGRND" fluid>
-                
+
                 <Container>
 
                 <Container fluid className="centered">
 
                     <br id="top" />
-                    <br />
+                    <br/>
                     <h1 className="majorMono tasty wow animate__animated animate__fadeInRight animate_slower helloSize">DeScRIBE SOME OF THE MOST DIFFICULT PROBLEMS YOU'VE WORKED ON AND HOW YOu SOLVED THEM.</h1>
                 </Container>    
 
@@ -33,64 +33,64 @@ function TastyResponseComp() {
                         duration={800}
                     >
 
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />  
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>  
                         <span className="tasty fa wow animate__animated animate__fadeInUp animate__slower"><a><i className="fa fa-long-arrow-alt-down fa-4x wow animate__animated animate__bounce animate__delay-1s" aria-hidden="true" /></a></span>
                     </Link>
 
                     </Container>
 
 
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
 
 
                     <br id="answer" />
@@ -123,8 +123,8 @@ function TastyResponseComp() {
                     <br/>
 
 
-                    <br />
-                    <br />
+                    <br/>
+                    <br/>
 
                     <Container className="centered">
 
@@ -137,11 +137,11 @@ function TastyResponseComp() {
                         duration={800}
                     >
 
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />  
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>  
                         <span className="tasty fa wow animate__animated animate__fadeInUp animate__slower"><a><i className="fa fa-long-arrow-alt-down fa-4x wow animate__animated animate__bounce animate__delay-1s" aria-hidden="true" /></a></span>
                     </Link>
 
@@ -149,64 +149,64 @@ function TastyResponseComp() {
 
 
 
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
 
 
 
                     <h1 id="tldr" className="majorMonoTLDR centered wow animate__animated animate__fadeInDown animate_slower helloSize"><span className="majorMonoTLDR wow animate__animated animate__fadeIn animate__slower">TL;DR</span></h1><br/>
 
 
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
 
 
 
@@ -227,11 +227,11 @@ function TastyResponseComp() {
 
 
                     <br/>
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
 
                     <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower tasty">[SOLUTION]</span></p>
                     <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">I converted a series of extremely stressful problems in my life into pursuing something i had always had interest in. It was the best decision i believe i have made in my adult life and have since committed to never allowing myself to become too comfortable or stagnant in my daily work again. My well-being depends on it. Thanks for reading.</span></p><br/>
@@ -240,14 +240,14 @@ function TastyResponseComp() {
 
 
                     
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
 
                     <Container className="centered">
 
@@ -260,9 +260,9 @@ function TastyResponseComp() {
                         duration={800}
                     >
 
-                        <br />
-                        <br />
-                        <br />
+                        <br/>
+                        <br/>
+                        <br/>
 
                         <span className="tasty fa wow animate__animated animate__fadeInUp animate__slower"><a><i className="fa fa-long-arrow-alt-up fa-4x wow animate__animated animate__bounce animate__delay-1s" aria-hidden="true" /></a></span>
                     </Link>
