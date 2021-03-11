@@ -5,23 +5,23 @@
     
 }
 
-.helloSize {
-
-    font-size: 48px;
-    color: white;
-}
 
 .questionTypeface {
 
-    /* font-family: 'Major Mono Display', monospace; */
-    /* font-family: 'Monoton', cursive; */
-    /* font-family: 'Fascinate', cursive; */
-    /* font-family: 'Montserrat Alternates', sans-serif; */
+
     font-family: 'Montserrat', sans-serif;
     font-size: 69px;
-    /* font-weight: bold; */
+  
 
 }
+
+@media screen and (max-width: 470px) {
+    h1.questionTypeface {
+      font-size: 12vw;
+    }
+  }
+
+
 
 .majorMonoTLDR {
 
@@ -30,13 +30,36 @@
 
 }
 
+@media screen and (max-width: 470px) {
+    span.majorMonoTLDR {
+      font-size: 24vw;
+    }
+  }
 
+
+  
 p {
 
-    /* font-family: 'Roboto Slab', serif; */
     font-family: 'Work Sans', sans-serif;
 
 }
+
+@media screen and (max-width: 470px) {
+    p.lead {
+      font-size: 4vw;
+    }
+  }
+
+
+
+/* arrow responsiveness  */
+@media screen and (max-width: 470px) {
+    .responsiveArrow {
+      font-size: 14vw;
+    }
+  }
+
+
 
 .centered {
 
@@ -49,11 +72,20 @@ p {
     text-align: right !important;
 }
 
+
+.alignLeft {
+
+    text-align: left !important;
+
+}
+
+
 .tasty {
 
     color: #F80F70;
 
 }
+
 
 .response {
 
@@ -61,12 +93,15 @@ p {
 
 }
 
+
 .fa:hover {
 
     transition: all 0.25s ease-in-out !important;
     color: rgb(5, 5, 5) !important;
     text-shadow: -1px 0 #F80F70, 0 1px #F80F70, 1px 0 #F80F70, 0 -1px #F80F70;
+
 }
+
 
 .spacedOut {
 
@@ -74,3 +109,19 @@ p {
     font-weight: bold;
 
 }
+
+
+.hrTLDR {
+
+    height: 0px;
+    border: none;
+    border-top: 2px solid white !important;
+
+}
+
+@media screen and (max-width: 470px) {
+    .hrTLDR {
+      width: 70%;
+    }
+  }
+
