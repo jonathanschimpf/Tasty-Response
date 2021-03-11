@@ -15,11 +15,13 @@ function TastyResponseComp() {
 
                 <Container>
 
-                <Container fluid className="centered">
+                <Container fluid >
 
                     <br id="top" />
                     <br/>
-                    <h1 className="majorMono tasty wow animate__animated animate__fadeInRight animate_slower helloSize">DeScRIBE SOME OF THE MOST DIFFICULT PROBLEMS YOU'VE WORKED ON AND HOW YOu SOLVED THEM.</h1>
+                    <p className="lead response wow animate__animated animate__fadeInLeft animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower spacedOut">[TASK]</span></p>
+                    <h1 className="questionTypeface tasty wow animate__animated animate__fadeInRight animate_slower helloSize">DESCRIBE SOME OF THE MOST DIFFICULT PROBLEMS YOU'VE WORKED ON AND HOW YOU SOLVED THEM.</h1>
+                    
                 </Container>    
 
                     <Container className="centered">
@@ -94,7 +96,10 @@ function TastyResponseComp() {
 
 
                     <br id="answer" />
-                    <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">I’m just like anybody else, i’ve run into many problems in my life. Some larger than others. Some easier to overcome than others. Some i've welcomed and embraced the process of beating, and others have shown up at the wrong time un-invited. I’m what some may consider an optimist and have approached all of these problem types similarly, with the idea that there’s absolutely a solution and i can arrive at it. I don’t know if i’ve been too blindly optimistic at times, but i do know that during my life trajectory this has been an outlook that has worked out for me; so i’ve maintained it. This question mentions the idea of a problem as a plurality. I thought about many of these large and small aforementioned problems and couldn’t initially decide what type of problems i should write about. Should i write about a single large and deeply personal problem? Or maybe a series of small dev related problems.. like a seemingly unsolvable resolution to an ESLint error suggestion or objects that i couldn’t seem to console.log(), or the thousandth time i forgot a semicolon *LOL*. After thinking it over for a twenty four hour period, i decided to merge the two.</span></p><br/>
+                    <Container className="alignRight">
+                    <p className="lead response wow animate__animated animate__fadeInRight animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower tasty spacedOut">[RESPONSE]</span></p>
+                    </Container>
+                    <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">I’m just like anybody else, i’ve run into many problems in my life. Some larger than others. Some easier to overcome than others. Some i've welcomed and embraced the process of beating, and others have shown up at the wrong time un-invited. I’m what some may consider an optimist and have approached all of these problem types similarly, with the idea that there’s absolutely a solution and i can arrive at it. I don’t know if i’ve been too blindly optimistic at times, but i do know that during my life trajectory this has been an outlook that has worked out for me; so i’ve maintained it. This question mentions the idea of a problem as a plurality. I thought about many of these large and small aforementioned problems and couldn’t initially decide what subject matter i should write about. Should i write about a single large and deeply personal problem? Or maybe a series of small dev related problems.. like a seemingly unsolvable resolution to an ESLint error suggestion or objects that i couldn’t seem to console.log(), or the thousandth time i forgot a semicolon *LOL*. After thinking it over for a twenty four hour period, i decided to merge the two.</span></p><br/>
 
                     <br/>
 
@@ -117,7 +122,7 @@ function TastyResponseComp() {
                     <br/>
 
 
-                    <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">I explored a variety of options and eventually took a full stack bootcamp through UPENN. This was extremely accelerated and at times i didn’t think i could actually get through the projects. I would rewatch my sessions and essentially didn’t sleep for months on end locked in my workspace. As soon as i would get comfortable with one concept, the next one would crush me and it continued on that way for awhile. This learning process was both fun and enjoyable but also mentally draining and left me feeling frequently defeated. But i continued to return and use every resource i had to grasp concepts. This learning style was good for me because i learned how to properly research and find solutions to issues quickly. Throughout the late nights i found that i was very much interested in the user facing side of development and a passion grew for that over the course of 2020. Many sleepless nights of wondering what the hell i was doing led to suddenly feeling like this is exactly what i should be doing. After completing the course i took some time to decompress and slowly work on other personal projects and my mental well-being. I caught up on sleep. I worked with friends i had met in the course and continued to merge code on projects we worked on, but at a calmer pace. After some relaxation and some job hunting, i found a contract doing front-end development work remotely that has allowed me to use new skills and creative skills i already had and have throughly enjoyed the work so far.</span></p><br/>
+                    <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">I explored a variety of options and eventually took a full stack bootcamp through UPENN. This was extremely accelerated and at times i didn’t think i could actually get through the projects. I would rewatch my sessions and essentially didn’t sleep for months on end locked in my workspace. As soon as i would get comfortable with one concept, the next one would crush me and it continued on that way for awhile. This learning process was both fun and enjoyable but also mentally draining and left me feeling frequently defeated. But i continued to return and use every resource i had to grasp concepts. This education style was good for me because i learned how to properly research and find solutions to issues quickly. Throughout the late nights i found that i was very much interested in the user facing side of development and a passion grew for that over the course of 2020. Many sleepless nights of wondering what the hell i was doing led to suddenly feeling like this is exactly what i should be doing. After completing the course i took some time to decompress and slowly work on other personal projects and my mental well-being. I caught up on sleep. I worked with friends i had met in the course and continued to merge code on projects we worked on, but at a calmer pace. After some relaxation and some job hunting, i found a contract doing front-end development work remotely that has allowed me to use new skills and creative skills i already had and have throughly enjoyed the work so far.</span></p><br/>
 
 
                     <br/>
@@ -195,7 +200,7 @@ function TastyResponseComp() {
                     <br/>
                     <br/>
                     <br/>
-                    <br/>
+                    <br></br>
 
 
 
@@ -205,26 +210,25 @@ function TastyResponseComp() {
                     <br/>
                     <br/>
                     <br/>
-                    <br/>
-                    <br/>
 
 
-
-                    <br/>
-
-
-                    <p className="lead centered response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower tasty">[PROBLEMS]</span></p>
+                    <p className="lead centered response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower tasty spacedOut">[PROBLEMS]</span></p>
                     <p className="lead centered response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">
+                        STAGNATED CAREER GROWTH<br/>
+                        &#43;<br/>
                         EXCESSIVE COMFORT<br/>
-                        +<br/>
+                        &#43;<br/>
                         GLOBAL PANDEMIC<br/>
-                        +<br/>
+                        &#43;<br/>
                         LOCKDOWN<br/>
-                        +<br/>
+                        &#43;<br/>
                         FURLOUGH<br/>
-                        +<br/>
+                        &#43;<br/>
                         LOST JOB</span></p><br/>
 
+                        {/* ADD THIS IN IN THE END FOR PINK PLUS SIGNS */}
+                        {/* <span className="tasty">&#43;</span> */}
+
 
                     <br/>
                     <br/>
@@ -233,7 +237,7 @@ function TastyResponseComp() {
                     <br/>
                     <br/>
 
-                    <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower tasty">[SOLUTION]</span></p>
+                    <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower tasty spacedOut">[SOLUTION]</span></p>
                     <p className="lead response wow animate__animated animate__fadeInUp animate_slower"><span className="wow animate__animated animate__fadeIn animate_slower">I converted a series of extremely stressful problems in my life into pursuing something i had always had interest in. It was the best decision i believe i have made in my adult life and have since committed to never allowing myself to become too comfortable or stagnant in my daily work again. My well-being depends on it. Thanks for reading.</span></p><br/>
 
                     <br/>
@@ -246,8 +250,7 @@ function TastyResponseComp() {
                     <br/>
                     <br/>
                     <br/>
-                    <br/>
-                    <br/>
+
 
                     <Container className="centered">
 

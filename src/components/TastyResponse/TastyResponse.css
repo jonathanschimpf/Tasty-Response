@@ -11,10 +11,15 @@
     color: white;
 }
 
-.majorMono {
+.questionTypeface {
 
-    font-family: 'Major Mono Display', monospace;
+    /* font-family: 'Major Mono Display', monospace; */
+    /* font-family: 'Monoton', cursive; */
+    /* font-family: 'Fascinate', cursive; */
+    /* font-family: 'Montserrat Alternates', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
     font-size: 69px;
+    /* font-weight: bold; */
 
 }
 
@@ -28,7 +33,8 @@
 
 p {
 
-    font-family: 'Roboto Slab', serif;
+    /* font-family: 'Roboto Slab', serif; */
+    font-family: 'Work Sans', sans-serif;
 
 }
 
@@ -36,6 +42,11 @@ p {
 
     text-align: center !important;
 
+}
+
+.alignRight {
+
+    text-align: right !important;
 }
 
 .tasty {
@@ -55,4 +66,11 @@ p {
     transition: all 0.25s ease-in-out !important;
     color: rgb(5, 5, 5) !important;
     text-shadow: -1px 0 #F80F70, 0 1px #F80F70, 1px 0 #F80F70, 0 -1px #F80F70;
+}
+
+.spacedOut {
+
+    letter-spacing: 10px;
+    font-weight: bold;
+
 }
