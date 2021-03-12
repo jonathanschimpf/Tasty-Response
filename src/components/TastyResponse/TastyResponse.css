@@ -23,16 +23,18 @@
 
 
 
-.majorMonoTLDR {
+.montserratTLDR {
 
-    font-family: 'Major Mono Display', monospace;
-    font-size: 120px;
+    /* font-family: 'Major Mono Display', monospace; */
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 6px;
+    font-size: 95px;
 
 }
 
 @media screen and (max-width: 470px) {
-    span.majorMonoTLDR {
-      font-size: 24vw;
+    span.montserratTLDR  {
+      font-size: 19vw;
     }
   }
 
