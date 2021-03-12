@@ -82,7 +82,7 @@ p {
 
 .tasty {
 
-    color: #F80F70;
+    color: #f70f70;
 
 }
 
@@ -98,14 +98,14 @@ p {
 
     transition: all 0.25s ease-in-out !important;
     color: rgb(5, 5, 5) !important;
-    text-shadow: -1px 0 #F80F70, 0 1px #F80F70, 1px 0 #F80F70, 0 -1px #F80F70;
+    text-shadow: -1px 0 #f70f70, 0 1px #f70f70, 1px 0 #f70f70, 0 -1px #f70f70;
 
 }
 
 
 .spacedOut {
 
-    letter-spacing: 10px;
+    letter-spacing: 11px;
     font-weight: bold;
 
 }
@@ -125,3 +125,16 @@ p {
     }
   }
 
+  .signature {
+
+    color: white;
+    /* font-weight: bold; */
+    text-decoration: none;
+
+  }
+
+  .signature:hover {
+
+    text-decoration: none;
+    color: #f70f70;
+  }
